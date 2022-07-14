@@ -1,4 +1,4 @@
-# BlackZip
+# BlackZip.
 
 apt install git
 
