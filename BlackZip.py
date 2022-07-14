@@ -7,7 +7,7 @@ import os
 argv=False
 try:
 	if (sys.argv[1]=="-version" or sys.argv[1]=="--version"):
-		print("BlackZip - version 1.0")
+		print("BlackZip - version 2.0")
 		argv=True
 	else:
 		pass
